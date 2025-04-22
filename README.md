@@ -1,6 +1,6 @@
 # QuantHaven  
 
-Trading bot / stock analysis / stock prediction
+Trading bot / stock analysis / stock prediction.
 
 ## 📖 Documentation  
 For details about this project, check out the documentation:  
