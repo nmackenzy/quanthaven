@@ -1,6 +1,6 @@
 # QuantHaven  
 
-A brief description of what your project does.  
+Trading bot / stock analysis / stock prediction
 
 ## 📖 Documentation  
 For details about this project, check out the documentation:  
